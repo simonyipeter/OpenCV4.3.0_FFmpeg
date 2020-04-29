@@ -4,5 +4,5 @@ https://github.com/czeni/opencv-video-minimal
 
 # Install:
 ```
-docker build -t opencv_ffmpeg_new:latest https://raw.githubusercontent.com/simonyipeter/OpenCV4.2_FFmpeg/master/Dockerfile
+docker build -t opencv_ffmpeg:latest https://raw.githubusercontent.com/simonyipeter/OpenCV4.2_FFmpeg/master/Dockerfile
 ```
