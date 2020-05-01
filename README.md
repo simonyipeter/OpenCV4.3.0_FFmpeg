@@ -3,7 +3,7 @@ OpenCV container with FFmpeg based on Ubuntu:
 
 # Install:
 ```
-docker build -t opencv_ffmpeg:latest https://raw.githubusercontent.com/simonyipeter/OpenCV4.2_FFmpeg/master/Dockerfile
+docker build -t opencv_ffmpeg:latest https://raw.githubusercontent.com/simonyipeter/OpenCV4.3.0_FFmpeg/master/Dockerfile
 ```
 # Run:
 ```
