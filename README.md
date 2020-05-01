@@ -1,4 +1,4 @@
-# OpenCV4.2 FFmpeg 4.2.2
+# OpenCV 4.3 FFmpeg 4.2.2
 OpenCV container with ffmpeg based on Ubuntu:
 
 # Install:
