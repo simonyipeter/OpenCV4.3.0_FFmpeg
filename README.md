@@ -2,6 +2,7 @@
 OpenCV container with FFmpeg based on Ubuntu:
 
 # Install:
+it will take around 2 hour, it depends from the CPU.
 ```
 docker build -t opencv_ffmpeg:latest https://raw.githubusercontent.com/simonyipeter/OpenCV4.3.0_FFmpeg/master/Dockerfile
 ```
